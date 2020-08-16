@@ -1,4 +1,4 @@
 # responsive-landing-page
 A responsive landing page 
-![GitHub Logo](webPic.PNG.png)
+![GitHub Logo](webPic.png)
 Format: ![Alt Text](url)
